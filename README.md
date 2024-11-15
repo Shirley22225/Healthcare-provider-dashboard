@@ -31,7 +31,8 @@ Technology Stack
 ## Filter by Race and Year
 ![Screenshot (954)](https://github.com/user-attachments/assets/78b8425e-5449-4da0-a961-53d9fe125ab6)
 
-- Usage This dashboard is particularly useful for healthcare analysts, administrators, and finance teams seeking to gain insights into patient demographics, department performance, and procedure costs. The customizable filters allow users to drill down into specific patient categories and time periods, providing flexible analysis options.
+
+Usage This dashboard is particularly useful for healthcare analysts, administrators, and finance teams seeking to gain insights into patient demographics, department performance, and procedure costs. The customizable filters allow users to drill down into specific patient categories and time periods, providing flexible analysis options.
 
 ## Future Enhancements
 - **Additional Filters:** Plan to add filters for insurance type and geographic location.
