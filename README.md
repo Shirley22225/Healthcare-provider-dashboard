@@ -3,11 +3,12 @@
 ![Dashboard](https://github.com/user-attachments/assets/eb819d03-b009-436b-beb8-ad87dabd8162)
 
 
-**Overview This dashboard** provides an interactive, visually compelling way to analyze healthcare billing data. With key metrics such as billing amount, treatment cost, insurance coverage, and room charges, it offers detailed insights by procedure, diagnosis, and department. The dashboard is designed to make healthcare data analysis both intuitive and impactful.
+**Overview This dashboard** 
+offers a visually appealing and engaging method for analysing medical billing data. It provides comprehensive insights by operation, diagnosis, and department and includes important metrics like billing amount, treatment cost, insurance coverage, and room expenses. The dashboard is intended to make the examination of healthcare data both impactful and easy to use.
 
 # Features
-
-- **Popup Filter Panel:** Users can filter data by patient race and time periods (year, quarter, month) to generate specific insights on demand. This popup filter panel is easy to open and close, enhancing the user experience without cluttering the main view.
+-- **Popup Filter Panel:**
+Users can filter data by patient race and time periods (year, quarter, month) to generate specific insights on demand. This popup filter panel is easy to open and close, enhancing the user experience without cluttering the main view.
 Dark and Light Mode: Users can switch between dark and light modes for improved readability in different environments, maintaining visual coherence and ensuring accessibility.
 
 - **Key Performance Indicators (KPIs):** High-level KPIs such as average billing amount, treatment cost, and out-of-pocket expenses are displayed prominently, making it easy to access essential information at a glance.
