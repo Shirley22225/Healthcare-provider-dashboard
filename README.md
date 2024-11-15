@@ -53,6 +53,6 @@ Key Highlights:
 - **Revenue Cycle Management:** The data offers opportunities to optimize billing and revenue cycle management processes, enhancing financial performance.
 - **Cross-Functional Collaboration:** A comprehensive, cross-functional approach is recommended to effectively address the identified opportunities and drive meaningful improvements.
 
-- **About the Author** Created by Shirley Nakalema, a data analyst passionate about healthcare data visualization and improving data accessibility in healthcare settings.
+**About the Author** Created by Shirley Nakalema, a data analyst passionate about healthcare data visualization and improving data accessibility in healthcare settings.
 
 This healthcare dashboard showcases the power of data analytics in transforming the industry. We welcome any questions or feedback you may have.
