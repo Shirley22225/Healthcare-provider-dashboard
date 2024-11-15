@@ -73,6 +73,7 @@ By improving revenue cycle management and billing procedures, the data can impro
 **Cross-Functional Collaboration:** 
 To properly handle the prospects found and promote significant advancements, a thorough, cross-functional strategy is advised.
 
-**About the Author** developed by data analyst Shirley Nakalema, who is enthusiastic about enhancing data accessibility in hospital settings and healthcare data visualisation.
+# About the Author 
+developed by data analyst Shirley Nakalema, who is enthusiastic about enhancing data accessibility in hospital settings and healthcare data visualisation.
 
 This healthcare dashboard showcases the power of data analytics in transforming the industry. We welcome any questions or feedback you may have.
