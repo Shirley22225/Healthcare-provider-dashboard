@@ -3,7 +3,7 @@
 ![Dashboard](https://github.com/user-attachments/assets/eb819d03-b009-436b-beb8-ad87dabd8162)
 
 
-- **Overview This dashboard** provides an interactive, visually compelling way to analyze healthcare billing data. With key metrics such as billing amount, treatment cost, insurance coverage, and room charges, it offers detailed insights by procedure, diagnosis, and department. The dashboard is designed to make healthcare data analysis both intuitive and impactful.
+**Overview This dashboard** provides an interactive, visually compelling way to analyze healthcare billing data. With key metrics such as billing amount, treatment cost, insurance coverage, and room charges, it offers detailed insights by procedure, diagnosis, and department. The dashboard is designed to make healthcare data analysis both intuitive and impactful.
 
 # Features
 
